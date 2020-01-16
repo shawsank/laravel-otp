@@ -1,13 +1,13 @@
 {
-    "name": "fleetfoot/otp",
-    "version": "0.0.1",
+    "name": "shawsank/otp",
+    "version": "1.0.0",
     "description": "Laravel5 OTP manager",
     "keywords": ["laravel", "otp"],
     "license": "GPL",
     "authors": [
         {
-            "name": "Dhavan Vaidya",
-            "email": "quark@codingquark.com",
+            "name": "P R",
+            "email": "indparez@gmail.com",
             "role": "Developer"
         }
     ],
