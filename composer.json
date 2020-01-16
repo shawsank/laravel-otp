@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Laravel5 OTP manager",
     "keywords": ["laravel", "otp", "otp generate"],
-    "license": "GPL",
+    "license": "MIT",
     "authors": [
         {
             "name": "P R",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fleetfoot\\OTP\\": "src/"
+            "Shawsank\\OTP\\": "src/"
         }
     },
     "config": {
