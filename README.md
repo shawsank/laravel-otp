@@ -16,8 +16,8 @@ Several configuration options are provided:
 
 ### Via composer
 
-1. Run `composer require fleetfoot/otp`
-2. Add `Fleetfoot\OTP\OTPServiceProvider` to your providers array in `config/app.php`
+1. Run `composer require shawsank/otp`
+2. Add `Shawsank\OTP\OTPServiceProvider` to your providers array in `config/app.php`
 3. Run `composer dump-autoload`
 4. Run `php artisan vendor:publish`
 5. Run `php artisan migrate`

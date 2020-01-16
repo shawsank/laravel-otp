@@ -2,7 +2,7 @@
     "name": "shawsank/otp",
     "version": "1.0.0",
     "description": "Laravel5 OTP manager",
-    "keywords": ["laravel", "otp"],
+    "keywords": ["laravel", "otp", "otp generate"],
     "license": "GPL",
     "authors": [
         {
@@ -25,7 +25,7 @@
 	"extra": {
 		"laravel": {
 			"providers": [
-				"Fleetfoot\\OTP\\OTPServiceProvider"
+				"Shawsank\\OTP\\OTPServiceProvider"
 			]
 		}
 	}

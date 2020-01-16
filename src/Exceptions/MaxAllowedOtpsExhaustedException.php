@@ -1,6 +1,6 @@
 <?php
 
-namespace Fleetfoot\OTP\Exceptions;
+namespace Shawsank\OTP\Exceptions;
 
 use Exception;
 

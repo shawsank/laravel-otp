@@ -1,6 +1,6 @@
 <?php
 
-namespace Fleetfoot\OTP\Models;
+namespace Shawsank\OTP\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

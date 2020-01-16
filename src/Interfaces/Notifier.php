@@ -1,6 +1,6 @@
 <?php
 
-namespace Fleetfoot\OTP\Interfaces;
+namespace Shawsank\OTP\Interfaces;
 
 interface Notifier
 {

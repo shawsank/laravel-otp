@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Fleetfoot OTP package configuration options.
+ * Shawsank OTP package configuration options.
  *
  * Modify the parameters to fit your needs.
  */

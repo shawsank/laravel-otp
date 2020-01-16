@@ -1,9 +1,9 @@
 <?php
 
-namespace Fleetfoot\OTP\Helpers;
+namespace Shawsank\OTP\Helpers;
 
 use Config;
-use Fleetfoot\OTP\Models\OTP;
+use Shawsank\OTP\Models\OTP;
 
 /**
  * OTP generation facilitator.

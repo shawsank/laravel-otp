@@ -1,15 +1,15 @@
 <?php
 
-namespace Fleetfoot\OTP\Helpers;
+namespace Shawsank\OTP\Helpers;
 
 use Config;
 use Exception;
-use Fleetfoot\OTP\Exceptions\MaxAllowedOtpsExhaustedException;
-use Fleetfoot\OTP\Exceptions\ServiceBlockedException;
-use Fleetfoot\OTP\Helpers\OTPGenerator;
-use Fleetfoot\OTP\Helpers\OTPValidator;
-use Fleetfoot\OTP\Interfaces\Notifier;
-use Fleetfoot\OTP\Models\OtpBlacklist;
+use Shawsank\OTP\Exceptions\MaxAllowedOtpsExhaustedException;
+use Shawsank\OTP\Exceptions\ServiceBlockedException;
+use Shawsank\OTP\Helpers\OTPGenerator;
+use Shawsank\OTP\Helpers\OTPValidator;
+use Shawsank\OTP\Interfaces\Notifier;
+use Shawsank\OTP\Models\OtpBlacklist;
 
 /**
  * Wrapper class to interact with OTP module.

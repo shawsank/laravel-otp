@@ -1,11 +1,11 @@
 <?php
 
-namespace Fleetfoot\OTP\Helpers;
+namespace Shawsank\OTP\Helpers;
 
-use Fleetfoot\OTP\Exceptions\MaxAllowedAttemptsExceededException;
-use Fleetfoot\OTP\Models\OTP;
-use Fleetfoot\OTP\Models\OtpAttempt;
-use Fleetfoot\OTP\Models\OtpBlacklist;
+use Shawsank\OTP\Exceptions\MaxAllowedAttemptsExceededException;
+use Shawsank\OTP\Models\OTP;
+use Shawsank\OTP\Models\OtpAttempt;
+use Shawsank\OTP\Models\OtpBlacklist;
 use Carbon\Carbon;
 use Config;
 

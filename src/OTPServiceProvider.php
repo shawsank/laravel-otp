@@ -1,6 +1,6 @@
 <?php
 
-namespace Fleetfoot\OTP;
+namespace Shawsank\OTP;
 
 use Illuminate\Support\ServiceProvider;
 
